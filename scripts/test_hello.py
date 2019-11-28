@@ -17,3 +17,8 @@ class TestHello:
 
     def test_hello4(self):
         assert False
+
+    def test_hello5(self):
+        assert True
+
+
